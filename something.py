@@ -1,2 +1,3 @@
 def thing():
-    print("something else")
+    print(2)
+
